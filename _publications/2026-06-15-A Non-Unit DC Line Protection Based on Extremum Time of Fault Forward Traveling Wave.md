@@ -6,7 +6,7 @@ permalink: /publication/2026-06-15-A Non-Unit DC Line Protection Based on Extrem
 excerpt: 'Testt.'
 date: 2026-06-15
 venue: 'IEEE Transactions on Power Delivery'
-slidesurl: 'none'
+slidesurl: 'https://ieeexplore.ieee.org/document/11563596'
 paperurl: 'none'
 citation: 'T. Bi, Y. Dai, K. Jia, K. Yao and M. Chen, "A Non-Unit DC Line Protection Based on Extremum Time of Fault Forward Traveling Wave," in IEEE Transactions on Power Delivery.'
 ---
