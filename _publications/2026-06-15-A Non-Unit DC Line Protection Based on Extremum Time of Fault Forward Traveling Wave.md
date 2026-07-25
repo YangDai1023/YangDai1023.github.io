@@ -1,7 +1,7 @@
 ---
 title: "A Non-Unit DC Line Protection Based on Extremum Time of Fault Forward Traveling Wave"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2026-06-15-A Non-Unit DC Line Protection Based on Extremum Time of Fault Forward Traveling Wave
 excerpt: 'Testt.'
 date: 2026-06-15
