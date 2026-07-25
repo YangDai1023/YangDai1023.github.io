@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, North China Electric Power University, 2029 (expected)
-* M.S. in Electrical Engineering, North China Electric Power University, 2025
-* B.Eng. in Electrical Engineering and Automation, North China Electric Power University, 2024
+* 2025-2029 (expected)
+  * Ph.D in Electrical Engineering, North China Electric Power University.
+* 2024-2025
+  * M.S. in Electrical Engineering, North China Electric Power University.
+*2020-2021
+  * B.Eng. in Electrical Engineering and Automation, North China Electric Power University.
 
 Work experience
 ======
