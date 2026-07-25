@@ -3,7 +3,7 @@ title: "A Non-Unit DC Line Protection Based on Extremum Time of Fault Forward Tr
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Testt.'
 date: 2026-06-15
 venue: 'IEEE Transactions on Power Delivery'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
