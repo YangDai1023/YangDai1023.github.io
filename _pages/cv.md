@@ -15,11 +15,7 @@ Education
   * Ph.D in Electrical Engineering, North China Electric Power University.
 * 2024-2025
   * M.S. in Electrical Engineering, North China Electric Power University.
-<<<<<<< HEAD
 * 2020-2021
-=======
-*2020-2021
->>>>>>> e276a09a81f26fcf4b58bd3a044595364a85ff47
   * B.Eng. in Electrical Engineering and Automation, North China Electric Power University.
 
 Work experience
