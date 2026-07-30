@@ -15,7 +15,7 @@ Education
   * Ph.D in Electrical Engineering, North China Electric Power University.
 * 2024-2025
   * M.S. in Electrical Engineering, North China Electric Power University.
-*2020-2021
+* 2020-2021
   * B.Eng. in Electrical Engineering and Automation, North China Electric Power University.
 
 Work experience
@@ -35,14 +35,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,12 +48,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
